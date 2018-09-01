@@ -2,7 +2,7 @@
 
 library(shiny)
 library(shinydashboard)
-library(BaysianGlm)
+library(BayesianGlm)
 library('Matrix')
 library('lme4')
 library('mlmRev')
